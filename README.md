@@ -1,1 +1,2 @@
-# OwnTravelProject
+Travel Database, my goal in creating this database related to travel is that someone who wants to travel can more easily find the information he needs based on where he wants to go. I wanted to create this idea more based on my favorite activities (travel). Because when I travel myself, I find this information on different websites and it is a bit of a waste of time. Which can be the most important set of information that a person who wants to travel will need. Since this is my mini database, I couldn't fit all the countries and cities. I created a database based on the more popular places I know.
+I have used MS-SQL Server and I have presentation in PowerPoint
